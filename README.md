@@ -1,5 +1,4 @@
-# KP_WEB_APP_SUMMARIZE_TEXT
-# KP APP Readme
+# KP APP 
 
 This is a Streamlit based web application that allows users to summarize text and documents using the txtai library. This repository contains the code for this application. 
 
