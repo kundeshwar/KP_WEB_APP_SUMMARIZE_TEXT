@@ -1,7 +1,8 @@
 # KP TEXT SUMMARIZATION APP 
 
 This is a Streamlit based web application that allows users to summarize text and documents using the txtai library. This repository contains the code for this application. 
-
+# Access The APP
+https://kundeshwar-kp-web-app-summarize-text-kp-summarize-text-8qnunk.streamlit.app/
 ## Requirements
 - Python 3.7 or higher
 - streamlit
